@@ -7,6 +7,7 @@ define( function ( require ) {
     Component = require( './core/Component' ),
     Scene = require( './core/Scene' ),
     Transform = require( './core/component/Transform' ),
+    Math = require( './common/Math' ),
 
     Paladin, i, args,
 
